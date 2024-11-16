@@ -75,7 +75,7 @@ async def send_messages():
         address = fake.address()
 
         # Path of the photo you want to send
-        photo_path = "ruler.jpg"
+        photo_path = "IMG_20241112_170120_077.jpg"
 
         # Load the photo using InputFile
         photo = InputFile(photo_path)
